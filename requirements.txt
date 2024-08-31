@@ -1,0 +1,8 @@
+graph-tool
+scikit-learn
+numpy
+matplotlib
+dill
+tqdm
+seaborn
+pandas
